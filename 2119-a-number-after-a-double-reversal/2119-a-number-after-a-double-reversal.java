@@ -13,12 +13,6 @@ class Solution {
         int rev1 = 0;
         int rev2 = 0;
 
-        while(rev != 0){
-            int last = rev%10;
-            rev1 = rev1*10+last;
-            rev = rev/10;
-        }
-
         rev1 = reverse(rev,rev1);
         rev2 = reverse(rev1,rev2);
 
