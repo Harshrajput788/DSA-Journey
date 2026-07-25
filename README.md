@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshrajput788/DSA-Journey/tree/master/0001-two-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Harshrajput788/DSA-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
