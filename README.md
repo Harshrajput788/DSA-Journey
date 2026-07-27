@@ -61,4 +61,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshrajput788/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshrajput788/DSA-Journey/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshrajput788/DSA-Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
