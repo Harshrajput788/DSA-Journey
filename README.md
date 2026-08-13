@@ -21,11 +21,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshrajput788/DSA-Journey/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshrajput788/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Harshrajput788/DSA-Journey/tree/master/2119-a-number-after-a-double-reversal) |
 ## Number Theory
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Harshrajput788/DSA-Journey/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
