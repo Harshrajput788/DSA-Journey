@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshrajput788/DSA-Journey/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Harshrajput788/DSA-Journey/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -65,8 +66,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshrajput788/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Harshrajput788/DSA-Journey/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshrajput788/DSA-Journey/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Harshrajput788/DSA-Journey/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
