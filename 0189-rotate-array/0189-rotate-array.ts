@@ -1,19 +1,20 @@
 /**
  Do not return anything, modify nums in-place instead.
  */
-function reverse(nums:number[],i:number,j:number):void{
-    while(i<=j){
-        [nums[i],nums[j]]= [nums[j],nums[i]];
-        j--;
-        i++;
-    }
-}
-
 function rotate(nums: number[], k: number): void {
     let n = nums.length;
     k %= n;
-    reverse(nums,0,n-1);
-    reverse(nums,0,k-1);
-    reverse(nums,k,n-1);
+    
+    const reverse = (i:number,j:number)=>{
+        while(i<=j){
+            [nums[i],nums[j]]= [nums[j],nums[i]];
+            j--;
+            i++;
+        }
+    }
+
+    reverse(0,n-1);
+    reverse(0,k-1);
+    reverse(k,n-1);
 
 };
