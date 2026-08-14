@@ -6,8 +6,10 @@ function rotate(nums: number[], k: number): void {
     k %= n;
     
     const reverse = (i:number,j:number)=>{
-        while(i<=j){
-            [nums[i],nums[j]]= [nums[j],nums[i]];
+        while(i<j){
+            nums[i] = nums[i]^nums[j];
+            nums[j] = nums[i]^nums[j];
+            nums[i] = nums[i]^nums[j];
             j--;
             i++;
         }
