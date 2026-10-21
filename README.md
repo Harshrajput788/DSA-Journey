@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshrajput788/DSA-Journey/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Harshrajput788/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshrajput788/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Harshrajput788/DSA-Journey/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshrajput788/DSA-Journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
