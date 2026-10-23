@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/Harshrajput788/DSA-Journey/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Harshrajput788/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Harshrajput788/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/Harshrajput788/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Harshrajput788/DSA-Journey/tree/master/0739-daily-temperatures) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Harshrajput788/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
