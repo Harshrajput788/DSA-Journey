@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshrajput788/DSA-Journey/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Harshrajput788/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Harshrajput788/DSA-Journey/tree/master/0238-product-of-array-except-self) |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshrajput788/DSA-Journey/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
