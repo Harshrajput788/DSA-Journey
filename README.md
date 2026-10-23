@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/Harshrajput788/DSA-Journey/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Harshrajput788/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
+| [0739-daily-temperatures](https://github.com/Harshrajput788/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshrajput788/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Harshrajput788/DSA-Journey/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshrajput788/DSA-Journey/tree/master/0053-maximum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Harshrajput788/DSA-Journey/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
