@@ -25,6 +25,7 @@
 | [0053-maximum-subarray](https://github.com/Harshrajput788/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Harshrajput788/DSA-Journey/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Harshrajput788/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/Harshrajput788/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Harshrajput788/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,4 +105,17 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Harshrajput788/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harshrajput788/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harshrajput788/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harshrajput788/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
