@@ -1,11 +1,17 @@
 function findDuplicate(nums: number[]): number {
-    const map = new Map<number,number>();
+    let slow = 0 , fast = 0;
 
-    for(let i = 0;i<nums.length;i++){
-        if(map.has(nums[i])) return nums[i];
+    do{
+        slow = nums[slow];
+        fast = nums[nums[fast]];
+    }while(slow!=fast);
 
-        map.set(nums[i],i)
+    slow = 0;
+
+    while(slow!=fast){
+        slow= nums[slow];
+        fast = nums[fast];
     }
 
-    return -1;
+    return slow
 };
