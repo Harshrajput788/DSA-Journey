@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Harshrajput788/DSA-Journey/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Harshrajput788/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshrajput788/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Harshrajput788/DSA-Journey/tree/master/0238-product-of-array-except-self) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshrajput788/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Harshrajput788/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshrajput788/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Harshrajput788/DSA-Journey/tree/master/0739-daily-temperatures) |
 ## Sorting
@@ -90,15 +92,18 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshrajput788/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Harshrajput788/DSA-Journey/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Harshrajput788/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshrajput788/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshrajput788/DSA-Journey/tree/master/0053-maximum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshrajput788/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Harshrajput788/DSA-Journey/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
