@@ -11,13 +11,15 @@
  */
 
 function swapPairs(head: ListNode | null): ListNode | null {
-    if(head === null || head.next === null) return head;
+    if(head == null || head.next == null) return head;
 
-    let point = head;
+    let curr = head;
     let next = head.next;
+    let nextPointer = next.next;
 
-    point.next = swapPairs(next.next);
-    next.next = point;
-
+    next.next = curr;
+    curr.next = swapPairs(nextPointer);
+    
     return next;
+
 };
